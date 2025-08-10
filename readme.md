@@ -3,7 +3,7 @@
 ## Total Problems by Category
 
 **Arrays & Strings**: 25 problems (Easy: 11, Medium: 14, Hard: 0)
-
+<br>
 **Binary Search**: 10 problems (Easy: 4, Medium: 5, Hard: 1)
 **Linked Lists**: 15 problems (Easy: 5, Medium: 8, Hard: 2)
 **Trees**: 19 problems (Easy: 10, Medium: 7, Hard: 2)
