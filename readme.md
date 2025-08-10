@@ -4,20 +4,20 @@
 
 **Arrays & Strings**: 25 problems (Easy: 11, Medium: 14, Hard: 0)
 <br>
-**Binary Search**: 10 problems (Easy: 4, Medium: 5, Hard: 1)
-**Linked Lists**: 15 problems (Easy: 5, Medium: 8, Hard: 2)
-**Trees**: 19 problems (Easy: 10, Medium: 7, Hard: 2)
-**Tries**: 3 problems (Easy: 0, Medium: 2, Hard: 1)
-**Graphs**: 14 problems (Easy: 0, Medium: 12, Hard: 2)
-**Dynamic Programming**: 18 problems (Easy: 2, Medium: 15, Hard: 1)
-**Heaps/Priority Queues**: 9 problems (Easy: 2, Medium: 5, Hard: 2)
-**Backtracking**: 10 problems (Easy: 0, Medium: 9, Hard: 1)
-**Bit Manipulation**: 7 problems (Easy: 5, Medium: 2, Hard: 0)
-**Greedy**: 9 problems (Easy: 0, Medium: 9, Hard: 0)
-**Intervals**: 6 problems (Easy: 1, Medium: 4, Hard: 1)
-**Stacks & Monotonic Stacks**: 11 problems (Easy: 2, Medium: 6, Hard: 3)
-**Sliding Window**: 6 problems (Easy: 1, Medium: 3, Hard: 2)
-**Math & Geometry**: 8 problems (Easy: 2, Medium: 6, Hard: 0)
+**Binary Search**: 10 problems (Easy: 4, Medium: 5, Hard: 1)<br>
+**Linked Lists**: 15 problems (Easy: 5, Medium: 8, Hard: 2)<br>
+**Trees**: 19 problems (Easy: 10, Medium: 7, Hard: 2)<br>
+**Tries**: 3 problems (Easy: 0, Medium: 2, Hard: 1)<br>
+**Graphs**: 14 problems (Easy: 0, Medium: 12, Hard: 2)<br>
+**Dynamic Programming**: 18 problems (Easy: 2, Medium: 15, Hard: 1)<br>
+**Heaps/Priority Queues**: 9 problems (Easy: 2, Medium: 5, Hard: 2)<br>
+**Backtracking**: 10 problems (Easy: 0, Medium: 9, Hard: 1)<br>
+**Bit Manipulation**: 7 problems (Easy: 5, Medium: 2, Hard: 0)<br>
+**Greedy**: 9 problems (Easy: 0, Medium: 9, Hard: 0)<br>
+**Intervals**: 6 problems (Easy: 1, Medium: 4, Hard: 1)<br>
+**Stacks & Monotonic Stacks**: 11 problems (Easy: 2, Medium: 6, Hard: 3)<br>
+**Sliding Window**: 6 problems (Easy: 1, Medium: 3, Hard: 2)<br>
+**Math & Geometry**: 8 problems (Easy: 2, Medium: 6, Hard: 0)<br>
 
 **TOTAL PROBLEMS: 170**
 
