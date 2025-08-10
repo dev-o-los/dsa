@@ -26,7 +26,7 @@
 ## Arrays & Strings
 **25 problems**
 
-- [ ] **1. Two Sum** 🟢 Easy
+- [*] **1. Two Sum** 🟢 Easy
 - [ ] **3. Longest Substring Without Repeating Characters** 🟡 Medium
 - [ ] **11. Container With Most Water** 🟡 Medium
 - [ ] **15. 3Sum** 🟡 Medium
