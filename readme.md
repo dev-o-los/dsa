@@ -24,10 +24,11 @@
 ---
 
 ## Arrays & Strings
+
 **25 problems**
 
 - [x] **1. Two Sum** 🟢 Easy
-- [ ] **3. Longest Substring Without Repeating Characters** 🟡 Medium
+- [x] **3. Longest Substring Without Repeating Characters** 🟡 Medium
 - [ ] **11. Container With Most Water** 🟡 Medium
 - [ ] **15. 3Sum** 🟡 Medium
 - [ ] **20. Valid Parentheses** 🟢 Easy
@@ -52,8 +53,8 @@
 - [ ] **424. Longest Repeating Character Replacement** 🟡 Medium
 - [ ] **560. Subarray Sum Equals K** 🟡 Medium
 
-
 ## Binary Search
+
 **10 problems**
 
 - [ ] **4. Median of Two Sorted Arrays** 🔴 Hard
@@ -67,8 +68,8 @@
 - [ ] **704. Binary Search** 🟢 Easy
 - [ ] **875. Koko Eating Bananas** 🟡 Medium
 
-
 ## Linked Lists
+
 **15 problems**
 
 - [ ] **2. Add Two Numbers** 🟡 Medium
@@ -87,8 +88,8 @@
 - [ ] **234. Palindrome Linked List** 🟢 Easy
 - [ ] **287. Find the Duplicate Number** 🟡 Medium
 
-
 ## Trees
+
 **19 problems**
 
 - [ ] **94. Binary Tree Inorder Traversal** 🟢 Easy
@@ -111,16 +112,16 @@
 - [ ] **543. Diameter of Binary Tree** 🟢 Easy
 - [ ] **572. Subtree of Another Tree** 🟢 Easy
 
-
 ## Tries
+
 **3 problems**
 
 - [ ] **208. Implement Trie (Prefix Tree)** 🟡 Medium
 - [ ] **211. Design Add and Search Words Data Structure** 🟡 Medium
 - [ ] **212. Word Search II** 🔴 Hard
 
-
 ## Graphs
+
 **14 problems**
 
 - [ ] **127. Word Ladder** 🔴 Hard
@@ -138,8 +139,8 @@
 - [ ] **743. Network Delay Time** 🟡 Medium
 - [ ] **994. Rotting Oranges** 🟡 Medium
 
-
 ## Dynamic Programming
+
 **18 problems**
 
 - [ ] **5. Longest Palindromic Substring** 🟡 Medium
@@ -161,8 +162,8 @@
 - [ ] **746. Min Cost Climbing Stairs** 🟢 Easy
 - [ ] **1143. Longest Common Subsequence** 🟡 Medium
 
-
 ## Heaps/Priority Queues
+
 **9 problems**
 
 - [ ] **23. Merge k Sorted Lists** 🔴 Hard
@@ -175,8 +176,8 @@
 - [ ] **973. K Closest Points to Origin** 🟡 Medium
 - [ ] **1046. Last Stone Weight** 🟢 Easy
 
-
 ## Backtracking
+
 **10 problems**
 
 - [ ] **17. Letter Combinations of a Phone Number** 🟡 Medium
@@ -190,8 +191,8 @@
 - [ ] **90. Subsets II** 🟡 Medium
 - [ ] **131. Palindrome Partitioning** 🟡 Medium
 
-
 ## Bit Manipulation
+
 **7 problems**
 
 - [ ] **136. Single Number** 🟢 Easy
@@ -202,8 +203,8 @@
 - [ ] **338. Counting Bits** 🟢 Easy
 - [ ] **371. Sum of Two Integers** 🟡 Medium
 
-
 ## Greedy
+
 **9 problems**
 
 - [ ] **45. Jump Game II** 🟡 Medium
@@ -216,8 +217,8 @@
 - [ ] **846. Hand of Straights** 🟡 Medium
 - [ ] **1899. Merge Triplets to Form Target Triplet** 🟡 Medium
 
-
 ## Intervals
+
 **6 problems**
 
 - [ ] **56. Merge Intervals** 🟡 Medium
@@ -227,8 +228,8 @@
 - [ ] **435. Non-overlapping Intervals** 🟡 Medium
 - [ ] **1851. Minimum Interval to Include Each Query** 🔴 Hard
 
-
 ## Stacks & Monotonic Stacks
+
 **11 problems**
 
 - [ ] **20. Valid Parentheses** 🟢 Easy
@@ -243,8 +244,8 @@
 - [ ] **739. Daily Temperatures** 🟡 Medium
 - [ ] **853. Car Fleet** 🟡 Medium
 
-
 ## Sliding Window
+
 **6 problems**
 
 - [ ] **3. Longest Substring Without Repeating Characters** 🟡 Medium
@@ -254,8 +255,8 @@
 - [ ] **424. Longest Repeating Character Replacement** 🟡 Medium
 - [ ] **567. Permutation in String** 🟡 Medium
 
-
 ## Math & Geometry
+
 **8 problems**
 
 - [ ] **43. Multiply Strings** 🟡 Medium
@@ -272,26 +273,34 @@
 ## Study Schedule (12 Months)
 
 ### Months 1-2: Foundation (60 problems)
+
 **Start with Arrays & Strings + Binary Search + Easy Trees**
+
 - Complete all Easy problems first
 - Focus on understanding basic patterns
 - Target: 2-3 problems per day
 
-### Months 3-4: Core DS (50 problems)  
+### Months 3-4: Core DS (50 problems)
+
 **Linked Lists + Trees + Heaps**
+
 - Master pointer manipulation
 - Understand tree traversals
 - Learn heap operations
 - Target: 2 problems per day
 
 ### Months 5-6: Advanced Patterns (40 problems)
+
 **Graphs + Dynamic Programming**
+
 - BFS/DFS mastery
 - DP pattern recognition
 - Target: 2 problems per day
 
 ### Months 7-8: Specialized Topics (20 problems)
+
 **Tries + Backtracking + Bit Manipulation**
+
 - Focus on pattern templates
 - Understand when to use each technique
 - Target: 1 problem per day
@@ -301,17 +310,20 @@
 ## How to Use This Sheet:
 
 ### Daily Practice
+
 1. **Copy this list to your note-taking app**
 2. **Check off problems as you complete them**
 3. **Focus on understanding patterns, not memorizing solutions**
 4. **Time yourself**: 20-30 mins for Easy, 30-45 mins for Medium, 45-60 mins for Hard
 
 ### Weekly Review
+
 - **Revisit unchecked problems**
 - **Practice 2-3 previously solved problems without looking at solutions**
 - **Track your pattern recognition improvement**
 
 ### Monthly Assessment
+
 - **Complete timed mock interviews (2 problems in 90 minutes)**
 - **Identify weak areas and focus extra practice there**
 - **Update your progress tracking**
@@ -321,16 +333,19 @@
 ## Key Success Metrics
 
 ### Problem-Solving Speed
+
 - **Easy**: Solve in under 20 minutes consistently
-- **Medium**: Solve in under 35 minutes consistently  
+- **Medium**: Solve in under 35 minutes consistently
 - **Hard**: Solve in under 50 minutes consistently
 
 ### Pattern Recognition
+
 - **Identify the right approach within 5 minutes**
 - **Explain your approach clearly before coding**
 - **Optimize your first solution if needed**
 
 ### Code Quality
+
 - **Clean, readable code**
 - **Handle edge cases**
 - **Correct time/space complexity analysis**
@@ -340,18 +355,22 @@
 ## Resources for Each Topic
 
 ### Arrays & Strings
+
 - Focus on two pointers, sliding window, and prefix sums
 - Practice string manipulation and anagram problems
 
-### Binary Search  
+### Binary Search
+
 - Master the template: left = 0, right = n-1, while left <= right
 - Practice "binary search on answer" problems
 
 ### Graphs
+
 - Templates for BFS, DFS, topological sort
 - Union-Find for connectivity problems
 
 ### Dynamic Programming
+
 - Start with 1D DP, then move to 2D
 - Focus on state definition and transitions
 
