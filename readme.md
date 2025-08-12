@@ -31,7 +31,7 @@
 - [x] **3. Longest Substring Without Repeating Characters** 🟡 Medium
 - [x] **11. Container With Most Water** 🟡 Medium
 - [ ] **15. 3Sum** 🟡 Medium
-- [ ] **20. Valid Parentheses** 🟢 Easy
+- [x] **20. Valid Parentheses** 🟢 Easy
 - [ ] **26. Remove Duplicates from Sorted Array** 🟢 Easy
 - [ ] **27. Remove Element** 🟢 Easy
 - [ ] **49. Group Anagrams** 🟡 Medium
