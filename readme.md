@@ -32,7 +32,7 @@
 - [x] **11. Container With Most Water** 🟡 Medium
 - [ ] **15. 3Sum** 🟡 Medium
 - [x] **20. Valid Parentheses** 🟢 Easy
-- [ ] **26. Remove Duplicates from Sorted Array** 🟢 Easy
+- [x] **26. Remove Duplicates from Sorted Array** 🟢 Easy
 - [ ] **27. Remove Element** 🟢 Easy
 - [ ] **49. Group Anagrams** 🟡 Medium
 - [ ] **53. Maximum Subarray** 🟡 Medium
