@@ -38,7 +38,7 @@
 - [ ] **53. Maximum Subarray** 🟡 Medium
 - [ ] **56. Merge Intervals** 🟡 Medium
 - [x] **88. Merge Sorted Array** 🟢 Easy
-- [ ] **121. Best Time to Buy and Sell Stock** 🟢 Easy
+- [x] **121. Best Time to Buy and Sell Stock** 🟢 Easy
 - [ ] **125. Valid Palindrome** 🟢 Easy
 - [ ] **128. Longest Consecutive Sequence** 🟡 Medium
 - [ ] **136. Single Number** 🟢 Easy
