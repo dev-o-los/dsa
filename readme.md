@@ -41,7 +41,7 @@
 - [x] **121. Best Time to Buy and Sell Stock** 🟢 Easy
 - [x] **125. Valid Palindrome** 🟢 Easy
 - [ ] **128. Longest Consecutive Sequence** 🟡 Medium
-- [ ] **136. Single Number** 🟢 Easy
+- [x] **136. Single Number** 🟢 Easy
 - [ ] **152. Maximum Product Subarray** 🟡 Medium
 - [ ] **167. Two Sum II - Input Array Is Sorted** 🟡 Medium
 - [ ] **189. Rotate Array** 🟡 Medium
