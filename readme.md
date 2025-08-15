@@ -47,7 +47,7 @@
 - [ ] **189. Rotate Array** 🟡 Medium
 - [x] **217. Contains Duplicate** 🟢 Easy
 - [ ] **238. Product of Array Except Self** 🟡 Medium
-- [ ] **242. Valid Anagram** 🟢 Easy
+- [x] **242. Valid Anagram** 🟢 Easy
 - [ ] **268. Missing Number** 🟢 Easy
 - [ ] **347. Top K Frequent Elements** 🟡 Medium
 - [ ] **424. Longest Repeating Character Replacement** 🟡 Medium
