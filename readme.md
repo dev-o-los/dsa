@@ -45,7 +45,7 @@
 - [ ] **152. Maximum Product Subarray** 🟡 Medium
 - [ ] **167. Two Sum II - Input Array Is Sorted** 🟡 Medium
 - [ ] **189. Rotate Array** 🟡 Medium
-- [ ] **217. Contains Duplicate** 🟢 Easy
+- [x] **217. Contains Duplicate** 🟢 Easy
 - [ ] **238. Product of Array Except Self** 🟡 Medium
 - [ ] **242. Valid Anagram** 🟢 Easy
 - [ ] **268. Missing Number** 🟢 Easy
