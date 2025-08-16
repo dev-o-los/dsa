@@ -30,7 +30,7 @@
 - [x] **1. Two Sum** 🟢 Easy
 - [x] **3. Longest Substring Without Repeating Characters** 🟡 Medium
 - [x] **11. Container With Most Water** 🟡 Medium
-- [ ] **15. 3Sum** 🟡 Medium
+- [x] **15. 3Sum** 🟡 Medium
 - [x] **20. Valid Parentheses** 🟢 Easy
 - [x] **26. Remove Duplicates from Sorted Array** 🟢 Easy
 - [x] **27. Remove Element** 🟢 Easy
