@@ -35,7 +35,7 @@
 - [x] **26. Remove Duplicates from Sorted Array** 🟢 Easy
 - [x] **27. Remove Element** 🟢 Easy
 - [x] **49. Group Anagrams** 🟡 Medium
-- [ ] **53. Maximum Subarray** 🟡 Medium
+- [x] **53. Maximum Subarray** 🟡 Medium
 - [ ] **56. Merge Intervals** 🟡 Medium
 - [x] **88. Merge Sorted Array** 🟢 Easy
 - [x] **121. Best Time to Buy and Sell Stock** 🟢 Easy
