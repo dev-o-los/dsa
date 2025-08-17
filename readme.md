@@ -34,7 +34,7 @@
 - [x] **20. Valid Parentheses** 🟢 Easy
 - [x] **26. Remove Duplicates from Sorted Array** 🟢 Easy
 - [x] **27. Remove Element** 🟢 Easy
-- [ ] **49. Group Anagrams** 🟡 Medium
+- [x] **49. Group Anagrams** 🟡 Medium
 - [ ] **53. Maximum Subarray** 🟡 Medium
 - [ ] **56. Merge Intervals** 🟡 Medium
 - [x] **88. Merge Sorted Array** 🟢 Easy
