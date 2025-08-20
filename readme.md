@@ -42,8 +42,8 @@
 - [x] **125. Valid Palindrome** 🟢 Easy
 - [x] **128. Longest Consecutive Sequence** 🟡 Medium
 - [x] **136. Single Number** 🟢 Easy
-- [ ] **152. Maximum Product Subarray** 🟡 Medium
-- [ ] **167. Two Sum II - Input Array Is Sorted** 🟡 Medium
+- [x] **152. Maximum Product Subarray** 🟡 Medium
+- [x] **167. Two Sum II - Input Array Is Sorted** 🟡 Medium
 - [ ] **189. Rotate Array** 🟡 Medium
 - [x] **217. Contains Duplicate** 🟢 Easy
 - [ ] **238. Product of Array Except Self** 🟡 Medium
