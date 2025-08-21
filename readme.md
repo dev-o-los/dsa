@@ -44,9 +44,9 @@
 - [x] **136. Single Number** 🟢 Easy
 - [x] **152. Maximum Product Subarray** 🟡 Medium
 - [x] **167. Two Sum II - Input Array Is Sorted** 🟡 Medium
-- [ ] **189. Rotate Array** 🟡 Medium
+- [x] **189. Rotate Array** 🟡 Medium
 - [x] **217. Contains Duplicate** 🟢 Easy
-- [ ] **238. Product of Array Except Self** 🟡 Medium
+- [x] **238. Product of Array Except Self** 🟡 Medium
 - [x] **242. Valid Anagram** 🟢 Easy
 - [x] **268. Missing Number** 🟢 Easy
 - [ ] **347. Top K Frequent Elements** 🟡 Medium
