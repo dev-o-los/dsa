@@ -49,7 +49,7 @@
 - [x] **238. Product of Array Except Self** 🟡 Medium
 - [x] **242. Valid Anagram** 🟢 Easy
 - [x] **268. Missing Number** 🟢 Easy
-- [ ] **347. Top K Frequent Elements** 🟡 Medium
+- [x] **347. Top K Frequent Elements** 🟡 Medium
 - [ ] **424. Longest Repeating Character Replacement** 🟡 Medium
 - [ ] **560. Subarray Sum Equals K** 🟡 Medium
 
