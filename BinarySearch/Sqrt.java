@@ -1,3 +1,4 @@
+package BinarySearch;
 // Algorithm
 
 // If x == 0 or x == 1, return x (because √0 = 0, √1 = 1).

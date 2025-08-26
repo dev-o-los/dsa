@@ -1,3 +1,4 @@
+package BinarySearch;
 /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
 
@@ -17,7 +18,7 @@
 // Else → move low = mid + 1.
 // Return low (or high), because both will point to the first bad version.
 
-public class Solution extends VersionControl {
+class Solution extends VersionControl {
     public int firstBadVersion(int n) {
 
         int low = 1, high = n;

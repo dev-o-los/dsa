@@ -1,9 +1,12 @@
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
-
-import java.util.*;
+import java.util.Map;
+import java.util.Set;
 
 // Steps
 // Loop through the array, fixing the first number (i).
@@ -13,7 +16,7 @@ import java.util.*;
 // To avoid duplicates, we can use a Set.
 
 //Brute force
-public class Solution1 {
+class Solution1 {
     public List<List<Integer>> threeSum(int[] nums) {
         Set<List<Integer>> result = new HashSet<>();
         int n = nums.length;

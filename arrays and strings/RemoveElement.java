@@ -19,7 +19,7 @@
 
 //     At the end, k will be the count of valid elements, and the first k spots contain the answer.
 
-public class Solution {
+class Solution {
    public int removeElement(int[] nums, int val) {
       int k = 0;
       for (int i = 0; i < nums.length; i++) {

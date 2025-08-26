@@ -1,4 +1,6 @@
+package BinarySearch;
 //Algo
+
 //Perform normal binary search
 //If element not found then left pointer holds correct
 //insertion position
