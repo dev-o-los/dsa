@@ -61,10 +61,10 @@
 - [ ] **33. Search in Rotated Sorted Array** 🟡 Medium
 - [x] **35. Search Insert Position** 🟢 Easy
 - [x] **69. Sqrt(x)** 🟢 Easy
-- [ ] **74. Search a 2D Matrix** 🟡 Medium
+- [x] **74. Search a 2D Matrix** 🟡 Medium
 - [ ] **153. Find Minimum in Rotated Sorted Array** 🟡 Medium
 - [ ] **162. Find Peak Element** 🟡 Medium
-- [ ] **278. First Bad Version** 🟢 Easy
+- [x] **278. First Bad Version** 🟢 Easy
 - [ ] **704. Binary Search** 🟢 Easy
 - [ ] **875. Koko Eating Bananas** 🟡 Medium
 
