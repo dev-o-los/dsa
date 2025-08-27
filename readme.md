@@ -58,7 +58,7 @@
 **10 problems**
 
 - [ ] **4. Median of Two Sorted Arrays** 🔴 Hard
-- [ ] **33. Search in Rotated Sorted Array** 🟡 Medium
+- [x] **33. Search in Rotated Sorted Array** 🟡 Medium
 - [x] **35. Search Insert Position** 🟢 Easy
 - [x] **69. Sqrt(x)** 🟢 Easy
 - [x] **74. Search a 2D Matrix** 🟡 Medium
