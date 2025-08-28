@@ -63,7 +63,7 @@
 - [x] **69. Sqrt(x)** 🟢 Easy
 - [x] **74. Search a 2D Matrix** 🟡 Medium
 - [x] **153. Find Minimum in Rotated Sorted Array** 🟡 Medium
-- [ ] **162. Find Peak Element** 🟡 Medium
+- [x] **162. Find Peak Element** 🟡 Medium
 - [x] **278. First Bad Version** 🟢 Easy
 - [x] **704. Binary Search** 🟢 Easy
 - [ ] **875. Koko Eating Bananas** 🟡 Medium
