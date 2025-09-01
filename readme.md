@@ -74,7 +74,7 @@
 
 - [x] **2. Add Two Numbers** 🟡 Medium
 - [x] **19. Remove Nth Node From End of List** 🟡 Medium
-- [ ] **21. Merge Two Sorted Lists** 🟢 Easy
+- [x] **21. Merge Two Sorted Lists** 🟢 Easy
 - [ ] **23. Merge k Sorted Lists** 🔴 Hard
 - [ ] **25. Reverse Nodes in k-Group** 🔴 Hard
 - [ ] **61. Rotate List** 🟡 Medium
