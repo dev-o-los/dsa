@@ -77,7 +77,7 @@
 - [x] **21. Merge Two Sorted Lists** 🟢 Easy
 - [ ] **23. Merge k Sorted Lists** 🔴 Hard
 - [ ] **25. Reverse Nodes in k-Group** 🔴 Hard
-- [ ] **61. Rotate List** 🟡 Medium
+- [x] **61. Rotate List** 🟡 Medium
 - [ ] **83. Remove Duplicates from Sorted List** 🟢 Easy
 - [ ] **138. Copy List with Random Pointer** 🟡 Medium
 - [ ] **141. Linked List Cycle** 🟢 Easy
