@@ -84,7 +84,7 @@
 - [ ] **142. Linked List Cycle II** 🟡 Medium
 - [ ] **143. Reorder List** 🟡 Medium
 - [ ] **146. LRU Cache** 🟡 Medium
-- [ ] **206. Reverse Linked List** 🟢 Easy
+- [x] **206. Reverse Linked List** 🟢 Easy
 - [ ] **234. Palindrome Linked List** 🟢 Easy
 - [ ] **287. Find the Duplicate Number** 🟡 Medium
 
