@@ -79,7 +79,7 @@
 - [ ] **25. Reverse Nodes in k-Group** 🔴 Hard
 - [x] **61. Rotate List** 🟡 Medium
 - [x] **83. Remove Duplicates from Sorted List** 🟢 Easy
-- [ ] **138. Copy List with Random Pointer** 🟡 Medium
+- [x] **138. Copy List with Random Pointer** 🟡 Medium
 - [x] **141. Linked List Cycle** 🟢 Easy
 - [ ] **142. Linked List Cycle II** 🟡 Medium
 - [ ] **143. Reorder List** 🟡 Medium
