@@ -82,7 +82,7 @@
 - [x] **138. Copy List with Random Pointer** 🟡 Medium
 - [x] **141. Linked List Cycle** 🟢 Easy
 - [ ] **142. Linked List Cycle II** 🟡 Medium
-- [ ] **143. Reorder List** 🟡 Medium
+- [x] **143. Reorder List** 🟡 Medium
 - [ ] **146. LRU Cache** 🟡 Medium
 - [x] **206. Reverse Linked List** 🟢 Easy
 - [x] **234. Palindrome Linked List** 🟢 Easy
