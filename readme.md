@@ -86,7 +86,7 @@
 - [ ] **146. LRU Cache** 🟡 Medium
 - [x] **206. Reverse Linked List** 🟢 Easy
 - [x] **234. Palindrome Linked List** 🟢 Easy
-- [ ] **287. Find the Duplicate Number** 🟡 Medium
+- [x] **287. Find the Duplicate Number** 🟡 Medium
 
 ## Trees
 
