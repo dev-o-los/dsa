@@ -94,7 +94,7 @@
 
 - [x] **94. Binary Tree Inorder Traversal** 🟢 Easy
 - [ ] **98. Validate Binary Search Tree** 🟡 Medium
-- [ ] **100. Same Tree** 🟢 Easy
+- [x] **100. Same Tree** 🟢 Easy
 - [ ] **101. Symmetric Tree** 🟢 Easy
 - [ ] **102. Binary Tree Level Order Traversal** 🟡 Medium
 - [ ] **104. Maximum Depth of Binary Tree** 🟢 Easy
