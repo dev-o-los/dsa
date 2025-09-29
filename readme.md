@@ -92,7 +92,7 @@
 
 **19 problems**
 
-- [ ] **94. Binary Tree Inorder Traversal** 🟢 Easy
+- [x] **94. Binary Tree Inorder Traversal** 🟢 Easy
 - [ ] **98. Validate Binary Search Tree** 🟡 Medium
 - [ ] **100. Same Tree** 🟢 Easy
 - [ ] **101. Symmetric Tree** 🟢 Easy
