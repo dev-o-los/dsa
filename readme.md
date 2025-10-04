@@ -101,8 +101,8 @@
 - [x] **105. Construct Binary Tree from Preorder and Inorder Traversal** 🟡 Medium
 - [ ] **110. Balanced Binary Tree** 🟢 Easy
 - [ ] **124. Binary Tree Maximum Path Sum** 🔴 Hard
-- [ ] **144. Binary Tree Preorder Traversal** 🟢 Easy
-- [ ] **145. Binary Tree Postorder Traversal** 🟢 Easy
+- [x] **144. Binary Tree Preorder Traversal** 🟢 Easy
+- [x] **145. Binary Tree Postorder Traversal** 🟢 Easy
 - [ ] **199. Binary Tree Right Side View** 🟡 Medium
 - [ ] **226. Invert Binary Tree** 🟢 Easy
 - [ ] **230. Kth Smallest Element in a BST** 🟡 Medium
