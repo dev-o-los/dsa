@@ -98,7 +98,7 @@
 - [ ] **101. Symmetric Tree** 🟢 Easy
 - [ ] **102. Binary Tree Level Order Traversal** 🟡 Medium
 - [ ] **104. Maximum Depth of Binary Tree** 🟢 Easy
-- [ ] **105. Construct Binary Tree from Preorder and Inorder Traversal** 🟡 Medium
+- [x] **105. Construct Binary Tree from Preorder and Inorder Traversal** 🟡 Medium
 - [ ] **110. Balanced Binary Tree** 🟢 Easy
 - [ ] **124. Binary Tree Maximum Path Sum** 🔴 Hard
 - [ ] **144. Binary Tree Preorder Traversal** 🟢 Easy

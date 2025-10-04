@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 /**
  * Definition for a binary tree node.
@@ -30,5 +31,54 @@ class Solution {
     List<Integer> result = new ArrayList<>();
     inorder(root, result);
     return result;
+  }
+}
+
+// iterative solution
+
+class Solution {
+  public List<Integer> inorderTraversal(TreeNode root) {
+    List<Integer> res = new ArrayList<>();
+    Stack<TreeNode> stack = new Stack<>();
+    TreeNode node = root;
+
+    while (node != null || !stack.isEmpty()) {
+
+      while (node != null) {
+        stack.push(node);
+        node = node.left;
+      }
+      // print the root
+      node = stack.pop();
+      res.add(node.val);
+      // move to right subtree;
+      node = node.right;
+    }
+
+    return res;
+  }
+}
+
+class Solution {
+  public List<Integer> inorderTraversal(TreeNode root) {
+    List<Integer> res = new ArrayList<>();
+    Stack<TreeNode> stack = new Stack<>();
+    TreeNode node = root;
+
+    while (node != null || !stack.isEmpty()) {
+
+      if (node != null) {
+        stack.push(node);
+        node = node.left;
+      } else {
+        // print the root
+        node = stack.pop();
+        res.add(node.val);
+        // move to right subtree;
+        node = node.right;
+      }
+    }
+
+    return res;
   }
 }
