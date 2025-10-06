@@ -109,7 +109,7 @@
 - [ ] **235. Lowest Common Ancestor of a Binary Search Tree** 🟡 Medium
 - [ ] **236. Lowest Common Ancestor of a Binary Tree** 🟡 Medium
 - [ ] **297. Serialize and Deserialize Binary Tree** 🔴 Hard
-- [ ] **543. Diameter of Binary Tree** 🟢 Easy
+- [x] **543. Diameter of Binary Tree** 🟢 Easy
 - [ ] **572. Subtree of Another Tree** 🟢 Easy
 
 ## Tries
