@@ -17,7 +17,7 @@ import javax.swing.tree.TreeNode;
  */
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        int[] maxDia = new int[1];
+        int[] maxDia = new int[1];// passing reference so that maxDia changes otherwise only a copy will be passed
         findHeight(root, maxDia);
         return maxDia[0];
     }
