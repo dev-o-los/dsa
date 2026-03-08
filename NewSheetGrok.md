@@ -33,7 +33,7 @@ Two pointers, sliding window, prefix sum, kadane, sort + two pointers, in-place 
 - [ ] 136. Single Number  
 - [ ] 189. Rotate Array  
 - [ ] 217. Contains Duplicate  
-- [ ] 283. Move Zeroes  
+- [x] 283. Move Zeroes  
 - [ ] 350. Intersection of Two Arrays II  
 
 #### Medium
